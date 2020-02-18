@@ -1,11 +1,11 @@
 var chocolateBars = ["snickers","hundred grand","kitkat","skittles"];
 
-
-
 addElementToBeginningOfArray = function(array, element){
   var newArray = new Array(element, ...array);
   return newArray;
 }
+
+
 
 //Both functions take two parameters, an array and an element
 //to add to the beginning of the array, and both functions
