@@ -49,7 +49,7 @@ accessElementInArray = function(array, index){
 }
 
 /*Define a function called removeElementFromBeginningOfArray.
-It takes an array as its only argument. The function should 
-remove the first element in the array. This function should 
-return the entire array in the same line, and it should not 
+It takes an array as its only argument. The function should
+remove the first element in the array. This function should
+return the entire array in the same line, and it should not
 mutate the original array.*/
