@@ -25,3 +25,7 @@ destructivelyAddElementToBeginningOfArray = function(array, element){
 /*Define addElementToEndOfArray. It should take two arguments,
 an array and an element to add to the end of the array. It
 should not alter the original array.*/
+
+addElementToEndOfArray = function(){
+  
+}
