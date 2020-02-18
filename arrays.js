@@ -64,5 +64,5 @@ element. Your function should return the entire array, and it should
 mutate the array.*/
 
 destructivelyRemoveElementFromEndOfArray = function(){
-  
+
 }
