@@ -2,7 +2,7 @@ addElementToBeginningOfArray = function([],element){
   var array = [];
   array.unshift(element);
 
-  return
+  return array;
 }
 //Both functions take two parameters, an array and an element
 //to add to the beginning of the array, and both functions
