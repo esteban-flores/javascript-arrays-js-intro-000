@@ -44,6 +44,6 @@ destructivelyAddElementToEndOfArray = function(array, element){
 should accept an array and an index and return the element at
 that index.*/
 
-accessElementInArray(){
+accessElementInArray = function(array, index){
 
 }
