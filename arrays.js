@@ -45,5 +45,5 @@ should accept an array and an index and return the element at
 that index.*/
 
 accessElementInArray = function(array, index){
-
+  return array[index];
 }
