@@ -48,10 +48,10 @@ accessElementInArray = function(array, index){
   return array[index];
 }
 
-/*Define a function called 
-destructivelyRemoveElementFromBeginningOfArray that takes an 
-array as its only argument and removes the first element. 
-Your function should then return the entire array, and it 
+/*Define a function called
+destructivelyRemoveElementFromBeginningOfArray that takes an
+array as its only argument and removes the first element.
+Your function should then return the entire array, and it
 should mutate the array.*/
 
 
