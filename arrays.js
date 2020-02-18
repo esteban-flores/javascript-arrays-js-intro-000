@@ -62,3 +62,4 @@ removeElementFromBeginningOfArray = function(array){
 that takes an array as its only argument and removes the last
 element. Your function should return the entire array, and it should
 mutate the array.*/
+
