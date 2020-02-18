@@ -54,7 +54,7 @@ array as its only argument and removes the first element.
 Your function should then return the entire array, and it
 should mutate the array.*/
 
-
+destructivelyRemoveElementFromBeginningOfArray = function(){}
 
 
 /*Define a function called removeElementFromBeginningOfArray.
