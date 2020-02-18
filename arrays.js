@@ -67,17 +67,16 @@ that takes an array as its only argument and removes the last
 element. Your function should return the entire array, and it should
 mutate the array.*/
 
-//var chocolateBars = ["snickers","hundred grand","kitkat","skittles"];
 destructivelyRemoveElementFromEndOfArray = function(array){
   array.pop();
   return array;
 }
-//destructivelyRemoveElementFromEndOfArray(chocolateBars);
 
 /*Define a function called removeElementFromEndOfArray that takes
 an array as its only argument and removes the last element. Your
 function should return the array without the last element, and it
 should not mutate the original array.*/
+
 removeElementFromEndOfArray = function(array){
   var newArray = array.slice(0, array.length - 1);
   return newArray;
