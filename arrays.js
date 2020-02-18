@@ -11,8 +11,6 @@ addElementToBeginningOfArray = function(array, element){
   return newArray;
 }
 
-/*
 destructivelyAddElementToBeginningOfArray = function(){
 
 }
-*/
