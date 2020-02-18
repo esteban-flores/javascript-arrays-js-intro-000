@@ -30,5 +30,3 @@ addElementToEndOfArray = function(array, element){
   var newArray = new Array(...array, element);
   return newArray;
 }
-
-
