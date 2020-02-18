@@ -18,6 +18,6 @@ of the array and then return the whole array. It should
 alter the original array that's passed in. */
 
 destructivelyAddElementToBeginningOfArray = function(array, element){
-  array = [];
-
+  array = [element, ...array];
+  return array;
 }
