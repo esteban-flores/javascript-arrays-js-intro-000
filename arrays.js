@@ -75,5 +75,6 @@ an array as its only argument and removes the last element. Your
 function should return the array without the last element, and it
 should not mutate the original array.*/
 removeElementFromEndOfArray = function(array){
-
+  var newArray = array.pop();
+  return newArray;
 }
