@@ -14,7 +14,7 @@ addElementToBeginningOfArray = function(array, element){
 /*destructivelyAddElementToBeginningOfArray should take two
 parameters, an array and an element to add to the beginning
 of the array, and should add the element to the beginning
-of the array and then return the whole array.  */
+of the array and then return the whole array. It should alter the original array that's passed in */
 
 destructivelyAddElementToBeginningOfArray = function(){
 
