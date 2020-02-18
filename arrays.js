@@ -32,7 +32,7 @@ addElementToEndOfArray = function(array, element){
 }
 
 /*Define destructivelyAddElementToEndOfArray. It should take
-two arguments, an array and an element to add to the end of 
+two arguments, an array and an element to add to the end of
 the array. It should alter the original array.*/
 
 destructivelyAddElementToEndOfArray = function(array, element){
