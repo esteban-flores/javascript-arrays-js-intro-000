@@ -17,11 +17,8 @@ of the array, and should add the element to the beginning
 of the array and then return the whole array. It should
 alter the original array that's passed in. */
 
-//var chocolateBars = ["snickers","hundred grand","kitkat","skittles"];
-
 destructivelyAddElementToBeginningOfArray = function(array, element){
   array.unshift(element);
   return array;
 }
 
-//destructivelyAddElementToBeginningOfArray(chocolateBars, "crunch");
