@@ -1,4 +1,4 @@
-addElementToBeginningOfArray = function(,element){
+addElementToBeginningOfArray = function([],element){
 
 
 
