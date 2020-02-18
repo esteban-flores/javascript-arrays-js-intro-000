@@ -5,7 +5,7 @@ addElementToBeginningOfArray = function(array, element){
   return newArray;
 }
 
-
+addElementToBeginningOfArray(chocolateBars, "crunch");
 
 //Both functions take two parameters, an array and an element
 //to add to the beginning of the array, and both functions
