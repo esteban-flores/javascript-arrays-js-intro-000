@@ -17,6 +17,7 @@ of the array, and should add the element to the beginning
 of the array and then return the whole array. It should
 alter the original array that's passed in. */
 
-destructivelyAddElementToBeginningOfArray = function(){
+destructivelyAddElementToBeginningOfArray = function(array, element){
+
 
 }
