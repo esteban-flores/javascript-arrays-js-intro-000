@@ -1,8 +1,9 @@
 var chocolateBars = ["snickers","hundred grand","kitkat","skittles"];
 
+var array = [];
 addElementToBeginningOfArray = function([],element){
-  var array = [];
-  array = [element, ...array];
+  var newArray = [];
+  newArray = [element, ...newArray];
   return array;
 }
 //Both functions take two parameters, an array and an element
