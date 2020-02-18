@@ -6,7 +6,7 @@ var chocolateBars = ["snickers","hundred grand","kitkat","skittles"];
 //return the whole array. It should return a new array and not
 //modify the original.
 
-addElementToBeginningOfArray = function(chocolateBars, element){
+addElementToBeginningOfArray = function(array, element){
   var newArray = new Array();
   return newArray;
 }
