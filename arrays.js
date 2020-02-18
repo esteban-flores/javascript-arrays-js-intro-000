@@ -69,3 +69,7 @@ destructivelyRemoveElementFromEndOfArray = function(array){
   return array;
 }
 //destructivelyRemoveElementFromEndOfArray(chocolateBars);
+
+removeElementFromEndOfArray = function(array){
+
+}
