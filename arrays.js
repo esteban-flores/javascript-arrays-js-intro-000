@@ -65,6 +65,7 @@ mutate the array.*/
 
 var chocolateBars = ["snickers","hundred grand","kitkat","skittles"];
 destructivelyRemoveElementFromEndOfArray = function(array){
-  return array.pop();
+  array.pop();
+  return array;
 }
 destructivelyRemoveElementFromEndOfArray(chocolateBars);
