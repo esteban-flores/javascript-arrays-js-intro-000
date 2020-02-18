@@ -48,6 +48,10 @@ accessElementInArray = function(array, index){
   return array[index];
 }
 
+
+
+
+
 /*Define a function called removeElementFromBeginningOfArray.
 It takes an array as its only argument. The function should
 remove the first element in the array. This function should
