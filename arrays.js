@@ -1,3 +1,5 @@
+var chocolateBars = 
+
 addElementToBeginningOfArray = function([],element){
   var array = [];
   array = [element, ...array];
