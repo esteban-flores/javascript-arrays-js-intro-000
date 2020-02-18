@@ -55,5 +55,5 @@ return the entire array in the same line, and it should not
 mutate the original array.*/
 
 removeElementFromBeginningOfArray = function(array){
-
+  return array.slice(1);
 }
