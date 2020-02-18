@@ -23,3 +23,5 @@ destructivelyAddElementToBeginningOfArray = function(array, element){
   array = [element, ...array];
   return array;
 }
+
+destructivelyAddElementToBeginningOfArray(chocolateBars, "crunch");
