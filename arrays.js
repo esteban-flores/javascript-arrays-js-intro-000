@@ -20,7 +20,7 @@ alter the original array that's passed in. */
 var chocolateBars = ["snickers","hundred grand","kitkat","skittles"];
 
 destructivelyAddElementToBeginningOfArray = function(array, element){
-  array.unshit(element);
+  array.unshift(element);
   return array;
 }
 
