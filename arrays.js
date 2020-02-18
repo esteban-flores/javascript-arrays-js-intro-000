@@ -55,7 +55,7 @@ Your function should then return the entire array, and it
 should mutate the array.*/
 
 destructivelyRemoveElementFromBeginningOfArray = function(){
-  
+
 }
 
 
